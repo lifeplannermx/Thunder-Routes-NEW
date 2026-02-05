@@ -195,7 +195,7 @@ export default function App() {
             </div>
             
             <footer className="p-4 border-t border-slate-200 text-center text-xs text-slate-400 bg-white">
-                Thunder Routes &copy; 2024 | Impulsado por Gemini 2.5 y Google Maps
+                LIFEPLANNER &copy; 2026 | Impulsado por Google Maps
             </footer>
         </div>
 
