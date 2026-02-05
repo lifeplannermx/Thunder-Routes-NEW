@@ -1,0 +1,7 @@
+{
+  "name": "Thunder Routes",
+  "description": "Un planificador de rutas inteligente que optimiza múltiples paradas utilizando datos de Google Maps y la IA de Gemini. Crea rutas eficientes y ábrelas directamente en Google Maps para navegar.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
